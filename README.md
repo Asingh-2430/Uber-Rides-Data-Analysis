@@ -1,4 +1,4 @@
-### Uber Ride Data Analysis Project
+## Uber Ride Data Analysis Project
 
 #### Project Overview
 This project aims to analyze Uber ride data to understand various aspects of ride usage, such as the distribution of rides across different categories, purposes, months, days, and times. The analysis is visualized using a dashboard to provide insights into ride patterns and help make data-driven decisions.
@@ -76,16 +76,10 @@ By implementing these recommendations, Uber can enhance its operational efficien
 3. Review the dashboard (`Dashboard.png`) to gain insights from the visualized data.
 4. Refer to the recommendations document (`Uber_Rides_Data_Analysis_Documentation_and_Recommendations.docx`) for detailed documentation and suggestions for improvement.
 
-#### Collaborators
-- George Youhana  - georgeyouhana2@gmail.com
-- Mohamed Hesham - moahmedemammdev@gmail.com 
-
-Feel free to reach out to any of the collaborators for questions or further information regarding the project.
-
 #### Steps for Cloning the Project
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/Geo-y20/Uber-Rides-Data-Analysis.git
+   git clone https://github.com/Asingh-2430/Uber-Rides-Data-Analysis.git
    ```
 2. **Navigate to the Project Directory**:
    ```
